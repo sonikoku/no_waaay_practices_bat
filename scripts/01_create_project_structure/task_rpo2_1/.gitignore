@@ -1,0 +1,8 @@
+__pycache__/
+.venv/
+.pytest_cache/
+logs/
+reports/*.log
+node_modules/
+dist/
+build/
