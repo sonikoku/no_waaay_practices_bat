@@ -1,0 +1,19 @@
+Отчет тестирования
+Дата: 14.06.2026 15:31:08,03
+
+
+F.                                                                       [100%]
+================================== FAILURES ===================================
+__________________________________ test_add ___________________________________
+
+    def test_add():
+>       assert add(2, 3) == 6
+E       assert 5 == 6
+E        +  where 5 = add(2, 3)
+
+tests\test_main.py:4: AssertionError
+=========================== short test summary info ===========================
+FAILED tests/test_main.py::test_add - assert 5 == 6
+1 failed, 1 passed in 0.07s
+
+[FAIL] Есть ошибки в тестах.
