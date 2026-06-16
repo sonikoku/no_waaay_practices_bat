@@ -1,0 +1,5 @@
+Git-снимок проекта
+Дата: 16.06.2026 23:07:59,70
+
+?? reports/
+?? scripts/08_git_snapshot.bat
