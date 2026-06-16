@@ -3,3 +3,19 @@ Git-снимок проекта
 
 ?? reports/
 ?? scripts/08_git_snapshot.bat
+[main 5946d52] Задание 08. Git-снимок перед сдачей
+ 2 files changed, 82 insertions(+)
+ create mode 100644 reports/git_snapshot_20260616_230759.txt
+ create mode 100644 scripts/08_git_snapshot.bat
+[OK] Коммит создан.
+
+Последние коммиты:
+5946d52 Задание 08. Git-снимок перед сдачей
+daf9ec6 Задание 07. Анализ логов проекта
+16fa02f я не помню зачем добавляла папку reports полностью в .gitignore... возвращаю, чтобы было видно, Я ДЕЛАЛА БАТНИКИ ЧЕСТНО!!!
+2b02375 Задание 06. Очистка временных файлов проекта
+cc690ab зачем-то перетащила 3тий батник
+
+Удаленные репозитории:
+origin	https://github.com/sonikoku/no_waaay_practices_bat.git (fetch)
+origin	https://github.com/sonikoku/no_waaay_practices_bat.git (push)
